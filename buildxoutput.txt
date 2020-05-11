@@ -10,4 +10,4 @@
  => exporting to image                                                                                             0.2s
  => => exporting layers                                                                                            0.1s
  => => writing image sha256:a1aacf5a7634c5d79220b80802fc439b12cf02475bc32f2557672939a737a07c                       0.0s
- => => naming to docker.io/chrisbbehrens/dncgit:arm7
+ => => naming to docker.io/bmajeska/dncgit:arm7
